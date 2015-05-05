@@ -1,4 +1,4 @@
 # gitrepo
-My repo on github
-Go DevOPS
+My first repo on GITHUB
+
 
